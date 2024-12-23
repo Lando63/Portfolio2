@@ -1,6 +1,6 @@
         * {
         font-family: Arial, Verdana, sans-serif;
-        color: #665544;
+        /*color: #665544;*/
         box-sizing: border-box;}
         
         header h1 {
@@ -9,9 +9,7 @@
         article h4 {
         text-align: center;}
 
-        section h3 {
-            font-weight: 
-        }
+        
 
         article img {
         max-width: 100%;
@@ -28,3 +26,7 @@
         .row-color-1 {
             background-color:rgb(189, 230, 239);
         }
+
+        .potato {               
+        color:#ffffff !important;
+}
